@@ -1,4 +1,4 @@
-<tool id="DatamashOps" name="Datamash" version="1.0.7">
+<tool id="DatamashGroupby" name="GroupBy" version="1.0.7">
   <description>(operations on tabular data)</description>
 
   <requirements>
